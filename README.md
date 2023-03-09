@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**parahatreis/parahatreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - [![trophy](https://github-profile-trophy.vercel.app/?username=parahatreis)](https://github.com/parahatreis/github-profile-trophy)
@@ -12,5 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
--->
