@@ -1,7 +1,6 @@
 ### Hi there, I am Parahat Iljanov 👋
 
-![parahatreis's Stats](https://github-readme-stats.vercel.app/api?username=parahatreis&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![parahatreis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=parahatreis&theme=dark&hide_border=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/parahatreis?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?logo=nextdotjs&logoColor=fff)
@@ -33,6 +32,3 @@
 ![Clerk](https://img.shields.io/badge/Auth-Clerk-5B5BD6)
 ![Stripe](https://img.shields.io/badge/Payments-Stripe-635BFF?logo=stripe&logoColor=fff)
 
-
-
-![Page View](https://komarev.com/ghpvc/?username=parahatreis)
