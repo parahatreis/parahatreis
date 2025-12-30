@@ -1,6 +1,6 @@
 ### Hi there, I am Parahat Iljanov 👋
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/parahatreis?cardType=level&theme=github&fontFamily=Afacad&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/parahatreis?cardType=level&theme=github-dark&fontFamily=IBM%20Plex%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?logo=nextdotjs&logoColor=fff)
